@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Reaction Commerce Cloudinary integration plugin",
   "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=12.14.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

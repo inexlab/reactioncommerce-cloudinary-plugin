@@ -1,0 +1,24 @@
+{
+  "name": "@inexlab/reactioncommerce-cloudinary-plugin",
+  "version": "1.0.0",
+  "description": "Reaction Commerce Cloudinary integration plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inexlab/reactioncommerce-cloudinary-plugin.git"
+  },
+  "keywords": [
+    "reaction",
+    "commerce",
+    "cloudinary"
+  ],
+  "author": "Andrei Balmus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inexlab/reactioncommerce-cloudinary-plugin/issues"
+  },
+  "homepage": "https://github.com/inexlab/reactioncommerce-cloudinary-plugin#readme"
+}
